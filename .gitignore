@@ -7,3 +7,4 @@ dist
 .codegraph
 .playwright-mcp
 package-lock.json
+.vercel

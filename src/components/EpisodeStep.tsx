@@ -133,7 +133,7 @@ Distribute ALL beats across ${localEps.length} episodes. Each beat goes to exact
             <span className="text-[10px] font-mono text-white/90 tracking-wide">STEP 02 • EPISODES • SERIES BREAKDOWN</span>
           </div>
           <h1 className="text-[40px] sm:text-[56px] lg:text-[64px] font-[800] tracking-[-0.04em] leading-[0.85] text-white" style={{ fontFamily: "Archivo Narrow, sans-serif" }}>
-            EPISODE<br />BREAKDOWN
+            EPISODE BREAKDOWN
           </h1>
           <p className="text-[13px] text-[#7a8089] mt-3 max-w-md">Split your story beats into episodes. AI can suggest a breakdown, or arrange manually.</p>
         </div>

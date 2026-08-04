@@ -51,7 +51,7 @@ export function GenerationStep(props: GenerationStepProps) {
             <span className="text-[10px] font-mono text-white/90 tracking-wide">STEP 03 • GENERATION • ASSET CREATION</span>
           </div>
           <h1 className="text-[40px] sm:text-[56px] lg:text-[64px] font-[800] tracking-[-0.04em] leading-[0.85] text-white" style={{ fontFamily: "Archivo Narrow, sans-serif" }}>
-            GENERATE<br />ASSETS
+            GENERATE ASSETS
           </h1>
           <p className="text-[13px] text-[#7a8089] mt-3 max-w-md">AI generates scene variants for each story beat. Render images individually or in batch.</p>
         </div>

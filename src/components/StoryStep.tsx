@@ -162,7 +162,7 @@ export function StoryStep(props: StoryStepProps) {
             <span className="text-[10px] font-mono text-white/90 tracking-wide">STEP 01 • STORY • SAVE THE CAT</span>
           </div>
           <h1 className="text-[40px] sm:text-[56px] lg:text-[64px] font-[800] tracking-[-0.04em] leading-[0.85] text-white" style={{ fontFamily: "Archivo Narrow, sans-serif" }}>
-            CONSTRUCT<br />NARRATIVE
+            CONSTRUCT NARRATIVE
           </h1>
           <p className="text-[13px] text-[#7a8089] mt-3 max-w-md">Map out the key moments. Upload reference images for AI analysis, or write manually.</p>
         </div>
