@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+node_modules
+dist
+.omo
+.codegraph
+.playwright-mcp
+package-lock.json
